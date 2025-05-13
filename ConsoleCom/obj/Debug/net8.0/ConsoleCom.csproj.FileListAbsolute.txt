@@ -1,0 +1,15 @@
+C:\git\ConsoleCommunication\ConsoleCom\bin\Debug\net8.0\ConsoleCom.exe
+C:\git\ConsoleCommunication\ConsoleCom\bin\Debug\net8.0\ConsoleCom.deps.json
+C:\git\ConsoleCommunication\ConsoleCom\bin\Debug\net8.0\ConsoleCom.runtimeconfig.json
+C:\git\ConsoleCommunication\ConsoleCom\bin\Debug\net8.0\ConsoleCom.dll
+C:\git\ConsoleCommunication\ConsoleCom\bin\Debug\net8.0\ConsoleCom.pdb
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.AssemblyInfoInputs.cache
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.AssemblyInfo.cs
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.csproj.CoreCompileInputs.cache
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.sourcelink.json
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.dll
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\refint\ConsoleCom.dll
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.pdb
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ConsoleCom.genruntimeconfig.cache
+C:\git\ConsoleCommunication\ConsoleCom\obj\Debug\net8.0\ref\ConsoleCom.dll
